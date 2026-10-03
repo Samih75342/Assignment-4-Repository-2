@@ -1,1 +1,4 @@
-Division of integers, examples, like 12 divided by 3 equals 4, negative 12 divided by 3 equals negative 4
+Division is a math operation that splits a total number into equal groups or finds out how many times one number fits into another. 
+
+For example, if you have 10 apples and split them into 2 equal groups, 
+you get 5 apples in each group 
